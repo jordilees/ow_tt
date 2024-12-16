@@ -1,7 +1,7 @@
 {
   "name": "My PWA App",
   "short_name": "PWA App",
-  "start_url": "/",
+  "start_url": "https://nastyjuice.cafe24.com/skin-mobile10/test.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
